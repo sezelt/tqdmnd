@@ -1,6 +1,6 @@
 # `tqdmnd`: `tqdm` in Multiple Dimensions
 
-`tqdmnd` is an N-dimensional extension of tqdm providing an iterator and
+`tqdmnd` is an N-dimensional wrapper of tqdm providing an iterator and
 progress bar over the product of multiple iterators.
 
 Example Usage:
