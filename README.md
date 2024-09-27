@@ -5,6 +5,7 @@ progress bar over the product of multiple iterators.
 
 Example Usage:
 ```python
+from tqdmnd import tqdmnd
 for x, y in tqdmnd(5,6):
     pass
 ```
